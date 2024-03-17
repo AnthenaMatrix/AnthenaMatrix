@@ -12,6 +12,12 @@ At Anthena Matrix, we are committed to advancing the field of AI security throug
 
 Here are some of the open-source projects we've released on GitHub:
 
+- **[ASCII Art Prompt Injection](https://github.com/AnthenaMatrix/ASCII-Art-Prompt-Injection)**: ASCII Art Prompt Injection is a novel approach to hacking AI assistants using ASCII art. This project leverages the distracting nature of ASCII art to bypass security measures and inject prompts into large language models, such as GPT-4, leading them to provide unintended or harmful responses.
+
+- **[AI Audio Data Poisoning](https://github.com/AnthenaMatrix/AI-Audio-Data-Poisoning)**: AI Audio Data Poisoning is a Python script that demonstrates how to add adversarial noise to audio data. This technique, known as audio data poisoning, involves injecting imperceptible noise into audio files to manipulate the behavior of AI systems trained on this data.
+
+- **[AI Image Data Poisoning](https://github.com/AnthenaMatrix/AI-Image-Data-Poisoning)**: AI Image Data Poisoning is a Python script that demonstrates how to add imperceptible perturbations to images, known as adversarial noise, which can disrupt the training process of AI models. This technique aims to protect artists' images by introducing subtle modifications that hinder the performance of AI algorithms without significantly altering the appearance of the images to human observers.
+
 - **[Image Prompt Injection](https://github.com/anthena-matrix/image-prompt-injection)**: Image Prompt Injection is a Python script that demonstrates how to embed a secret prompt within an image using steganography techniques. This hidden prompt can be later extracted by an AI system for various applications.
 
 - **[AI Vulnerability Assessment Framework](https://github.com/anthena-matrix/ai-vulnerability-assessment-framework)**: The AI Vulnerability Assessment Framework is an open-source checklist designed to guide users through the process of assessing the vulnerability of artificial intelligence (AI) systems to various threats and attacks.
