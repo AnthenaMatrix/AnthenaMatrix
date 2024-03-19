@@ -8,6 +8,8 @@ Anthena Matrix is on a mission to ensure the safety and integrity of AI systems.
 
 At Anthena Matrix, we are committed to advancing the field of AI security through open-source collaboration and community-driven initiatives. Our goal is to empower developers, researchers, and organizations to build secure and trustworthy AI systems.
 
+Website: **[https://anthenamatrix.com](https://anthenamatrix.com)**
+
 ### Projects
 
 Here are some of the open-source projects we've released on GitHub:
