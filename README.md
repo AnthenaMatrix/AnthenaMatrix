@@ -14,6 +14,8 @@ Website: **[https://anthenamatrix.com](https://anthenamatrix.com)**
 
 Here are some of the open-source projects we've released on GitHub:
 
+- **[Prompt Injection Testing Tool](https://github.com/AnthenaMatrix/Prompt-Injection-Testing-Tool)**: The Prompt Injection Testing Tool is a Python script designed to assess the security of your AI system's prompt handling against a predefined list of user prompts commonly used for injection attacks. This tool utilizes the OpenAI GPT-3.5 model to generate responses to system-user prompt pairs and outputs the results to a CSV file for analysis.
+
 - **[ASCII Art Prompt Injection](https://github.com/AnthenaMatrix/ASCII-Art-Prompt-Injection)**: ASCII Art Prompt Injection is a novel approach to hacking AI assistants using ASCII art. This project leverages the distracting nature of ASCII art to bypass security measures and inject prompts into large language models, such as GPT-4, leading them to provide unintended or harmful responses.
 
 - **[AI Audio Data Poisoning](https://github.com/AnthenaMatrix/AI-Audio-Data-Poisoning)**: AI Audio Data Poisoning is a Python script that demonstrates how to add adversarial noise to audio data. This technique, known as audio data poisoning, involves injecting imperceptible noise into audio files to manipulate the behavior of AI systems trained on this data.
